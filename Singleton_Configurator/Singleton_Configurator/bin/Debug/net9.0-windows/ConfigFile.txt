@@ -1,0 +1,5 @@
+# HTL-Clubbing Calculator Config
+price_netto=10.00
+quantity=2
+discount_percent=20
+vat_percent=16
