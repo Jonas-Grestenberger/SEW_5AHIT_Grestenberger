@@ -1,0 +1,86 @@
+2026-10-07 21:08:26.967 [INFO] App gestartet.
+2026-10-07 21:08:30.977 [TRACE] Calc started...
+2026-10-07 21:08:30.982 [DEBUG] Zwischenergebnis: Netto (vor Rabatt)=20,00
+2026-10-07 21:08:30.982 [DEBUG] Zwischenergebnis: Rabatt=4,00
+2026-10-07 21:08:30.983 [DEBUG] Zwischenergebnis: Netto nach Rabatt=16,00
+2026-10-07 21:08:30.983 [DEBUG] Zwischenergebnis: Steuer=2,56
+2026-10-07 21:08:30.986 [INFO] Berechnung OK | Preis=10,00; Menge=2; Rabatt%=20; Steuer%=16 | Netto=16,00; Steuer=2,56; Brutto=18,56
+2026-10-07 21:08:30.989 [TRACE] Calc finished.
+2026-10-07 21:08:34.215 [TRACE] Calc started...
+2026-10-07 21:08:34.216 [DEBUG] Zwischenergebnis: Netto (vor Rabatt)=20,00
+2026-10-07 21:08:34.216 [DEBUG] Zwischenergebnis: Rabatt=2,00
+2026-10-07 21:08:34.218 [DEBUG] Zwischenergebnis: Netto nach Rabatt=18,00
+2026-10-07 21:08:34.218 [DEBUG] Zwischenergebnis: Steuer=2,88
+2026-10-07 21:08:34.218 [INFO] Berechnung OK | Preis=10,00; Menge=2; Rabatt%=10; Steuer%=16 | Netto=18,00; Steuer=2,88; Brutto=20,88
+2026-10-07 21:08:34.219 [TRACE] Calc finished.
+2026-10-07 21:08:38.846 [TRACE] Calc started...
+2026-10-07 21:08:38.846 [DEBUG] Zwischenergebnis: Netto (vor Rabatt)=500,00
+2026-10-07 21:08:38.847 [DEBUG] Zwischenergebnis: Rabatt=50,00
+2026-10-07 21:08:38.847 [DEBUG] Zwischenergebnis: Netto nach Rabatt=450,00
+2026-10-07 21:08:38.847 [DEBUG] Zwischenergebnis: Steuer=72,00
+2026-10-07 21:08:38.848 [INFO] Berechnung OK | Preis=10,00; Menge=50; Rabatt%=10; Steuer%=16 | Netto=450,00; Steuer=72,00; Brutto=522,00
+2026-10-07 21:08:38.849 [TRACE] Calc finished.
+2026-10-07 21:08:43.214 [TRACE] Calc started...
+2026-10-07 21:08:43.214 [DEBUG] Zwischenergebnis: Netto (vor Rabatt)=750,00
+2026-10-07 21:08:43.215 [DEBUG] Zwischenergebnis: Rabatt=75,00
+2026-10-07 21:08:43.215 [DEBUG] Zwischenergebnis: Netto nach Rabatt=675,00
+2026-10-07 21:08:43.216 [DEBUG] Zwischenergebnis: Steuer=108,00
+2026-10-07 21:08:43.216 [INFO] Berechnung OK | Preis=15,00; Menge=50; Rabatt%=10; Steuer%=16 | Netto=675,00; Steuer=108,00; Brutto=783,00
+2026-10-07 21:08:43.217 [TRACE] Calc finished.
+2026-10-07 21:08:47.214 [TRACE] Calc started...
+2026-10-07 21:08:47.215 [DEBUG] Zwischenergebnis: Netto (vor Rabatt)=0,00
+2026-10-07 21:08:47.216 [DEBUG] Zwischenergebnis: Rabatt=0,00
+2026-10-07 21:08:47.217 [DEBUG] Zwischenergebnis: Netto nach Rabatt=0,00
+2026-10-07 21:08:47.217 [DEBUG] Zwischenergebnis: Steuer=0,00
+2026-10-07 21:08:47.217 [INFO] Berechnung OK | Preis=0,00; Menge=50; Rabatt%=10; Steuer%=16 | Netto=0,00; Steuer=0,00; Brutto=0,00
+2026-10-07 21:08:47.218 [TRACE] Calc finished.
+2026-10-07 21:08:58.230 [TRACE] Calc started...
+2026-10-07 21:08:58.231 [ERROR] Ungültige Eingabe im Feld 'Preis'.
+2026-10-07 21:08:59.353 [TRACE] Calc aborted.
+2026-10-07 21:09:02.478 [TRACE] Calc started...
+2026-10-07 21:09:02.479 [DEBUG] Zwischenergebnis: Netto (vor Rabatt)=1000,00
+2026-10-07 21:09:02.479 [DEBUG] Zwischenergebnis: Rabatt=100,00
+2026-10-07 21:09:02.480 [DEBUG] Zwischenergebnis: Netto nach Rabatt=900,00
+2026-10-07 21:09:02.480 [DEBUG] Zwischenergebnis: Steuer=144,00
+2026-10-07 21:09:02.480 [INFO] Berechnung OK | Preis=20,00; Menge=50; Rabatt%=10; Steuer%=16 | Netto=900,00; Steuer=144,00; Brutto=1044,00
+2026-10-07 21:09:02.481 [TRACE] Calc finished.
+2026-10-07 21:10:09.680 [INFO] App beendet.
+2026-10-07 21:11:37.924 [INFO] App gestartet.
+2026-10-07 21:11:41.330 [TRACE] Calc started...
+2026-10-07 21:11:41.335 [DEBUG] Zwischenergebnis: Netto (vor Rabatt)=1000,00
+2026-10-07 21:11:41.335 [DEBUG] Zwischenergebnis: Rabatt=100,00
+2026-10-07 21:11:41.336 [DEBUG] Zwischenergebnis: Netto nach Rabatt=900,00
+2026-10-07 21:11:41.336 [DEBUG] Zwischenergebnis: Steuer=144,00
+2026-10-07 21:11:41.339 [INFO] Berechnung OK | Preis=20,00; Menge=50; Rabatt%=10; Steuer%=16 | Netto=900,00; Steuer=144,00; Brutto=1044,00
+2026-10-07 21:11:41.341 [TRACE] Calc finished.
+2026-10-07 21:11:45.846 [TRACE] Calc started...
+2026-10-07 21:11:45.847 [ERROR] Ungültige Eingabe im Feld 'Preis'.
+2026-10-07 21:11:46.798 [TRACE] Calc aborted.
+2026-10-07 21:11:49.534 [TRACE] Calc started...
+2026-10-07 21:11:49.535 [ERROR] Ungültige Eingabe im Feld 'Preis'.
+2026-10-07 21:11:50.582 [TRACE] Calc aborted.
+2026-10-07 21:11:54.454 [TRACE] Calc started...
+2026-10-07 21:11:54.455 [DEBUG] Zwischenergebnis: Netto (vor Rabatt)=5000,00
+2026-10-07 21:11:54.455 [DEBUG] Zwischenergebnis: Rabatt=500,00
+2026-10-07 21:11:54.456 [DEBUG] Zwischenergebnis: Netto nach Rabatt=4500,00
+2026-10-07 21:11:54.456 [DEBUG] Zwischenergebnis: Steuer=720,00
+2026-10-07 21:11:54.457 [INFO] Berechnung OK | Preis=100,00; Menge=50; Rabatt%=10; Steuer%=16 | Netto=4500,00; Steuer=720,00; Brutto=5220,00
+2026-10-07 21:11:54.458 [TRACE] Calc finished.
+2026-10-07 21:12:01.734 [TRACE] Calc started...
+2026-10-07 21:12:01.734 [DEBUG] Zwischenergebnis: Netto (vor Rabatt)=1000,00
+2026-10-07 21:12:01.735 [DEBUG] Zwischenergebnis: Rabatt=100,00
+2026-10-07 21:12:01.735 [DEBUG] Zwischenergebnis: Netto nach Rabatt=900,00
+2026-10-07 21:12:01.736 [DEBUG] Zwischenergebnis: Steuer=144,00
+2026-10-07 21:12:01.736 [INFO] Berechnung OK | Preis=20,00; Menge=50; Rabatt%=10; Steuer%=16 | Netto=900,00; Steuer=144,00; Brutto=1044,00
+2026-10-07 21:12:01.737 [TRACE] Calc finished.
+2026-10-07 21:12:06.742 [TRACE] Calc started...
+2026-10-07 21:12:06.743 [ERROR] Ungültige Eingabe im Feld 'Menge'.
+2026-10-07 21:12:07.582 [TRACE] Calc aborted.
+2026-10-07 21:12:11.382 [TRACE] Calc started...
+2026-10-07 21:12:11.383 [DEBUG] Zwischenergebnis: Netto (vor Rabatt)=100,00
+2026-10-07 21:12:11.384 [DEBUG] Zwischenergebnis: Rabatt=10,00
+2026-10-07 21:12:11.384 [DEBUG] Zwischenergebnis: Netto nach Rabatt=90,00
+2026-10-07 21:12:11.385 [DEBUG] Zwischenergebnis: Steuer=14,40
+2026-10-07 21:12:11.385 [INFO] Berechnung OK | Preis=20,00; Menge=5; Rabatt%=10; Steuer%=16 | Netto=90,00; Steuer=14,40; Brutto=104,40
+2026-10-07 21:12:11.386 [TRACE] Calc finished.
+2026-10-07 21:14:25.203 [INFO] App beendet.
