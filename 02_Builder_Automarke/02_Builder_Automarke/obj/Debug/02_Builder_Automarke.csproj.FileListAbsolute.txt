@@ -1,0 +1,7 @@
+D:\1schule\SEW\5AHIT\SEW_5AHIT_Grestenberger\02_Builder_Automarke\02_Builder_Automarke\bin\Debug\02_Builder_Automarke.exe.config
+D:\1schule\SEW\5AHIT\SEW_5AHIT_Grestenberger\02_Builder_Automarke\02_Builder_Automarke\bin\Debug\02_Builder_Automarke.exe
+D:\1schule\SEW\5AHIT\SEW_5AHIT_Grestenberger\02_Builder_Automarke\02_Builder_Automarke\bin\Debug\02_Builder_Automarke.pdb
+D:\1schule\SEW\5AHIT\SEW_5AHIT_Grestenberger\02_Builder_Automarke\02_Builder_Automarke\obj\Debug\02_Builder_Automarke.csproj.AssemblyReference.cache
+D:\1schule\SEW\5AHIT\SEW_5AHIT_Grestenberger\02_Builder_Automarke\02_Builder_Automarke\obj\Debug\02_Builder_Automarke.csproj.CoreCompileInputs.cache
+D:\1schule\SEW\5AHIT\SEW_5AHIT_Grestenberger\02_Builder_Automarke\02_Builder_Automarke\obj\Debug\02_Builder_Automarke.exe
+D:\1schule\SEW\5AHIT\SEW_5AHIT_Grestenberger\02_Builder_Automarke\02_Builder_Automarke\obj\Debug\02_Builder_Automarke.pdb

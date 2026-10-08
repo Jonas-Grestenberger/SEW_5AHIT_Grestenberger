@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1schule\\SEW\\5AHIT\\SEW_5AHIT_Grestenberger\\02_Builder_Automarke\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06DF3287-7067-423B-B112-595858E68423}|02_Builder_Automarke\\02_Builder_Automarke.csproj|d:\\1schule\\sew\\5ahit\\sew_5ahit_grestenberger\\02_builder_automarke\\02_builder_automarke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DF3287-7067-423B-B112-595858E68423}|02_Builder_Automarke\\02_Builder_Automarke.csproj|solutionrelative:02_builder_automarke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 618,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1schule\\SEW\\5AHIT\\SEW_5AHIT_Grestenberger\\02_Builder_Automarke\\02_Builder_Automarke\\Program.cs",
+              "RelativeDocumentMoniker": "02_Builder_Automarke\\Program.cs",
+              "ToolTip": "D:\\1schule\\SEW\\5AHIT\\SEW_5AHIT_Grestenberger\\02_Builder_Automarke\\02_Builder_Automarke\\Program.cs",
+              "RelativeToolTip": "02_Builder_Automarke\\Program.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAADwv/QAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:51:10.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
