@@ -1,0 +1,14 @@
+﻿2026-10-15 17:06:58 [START] Applikation gestartet
+2026-10-15 17:07:05 [AUSWAHL] Ungültige Eingabe: 'Nix'
+2026-10-15 17:07:07 [AUSWAHL] Kunde hat 'Saft' gewählt
+2026-10-15 17:07:13 [AUSWAHL] Kunde hat 'Kaffe' gewählt
+2026-10-15 17:07:15 [ENDE] Applikation beendet
+2026-10-15 17:07:33 [START] Applikation gestartet
+2026-10-15 17:07:37 [AUSWAHL] Ungültige Eingabe: ''
+2026-10-15 17:07:38 [AUSWAHL] Ungültige Eingabe: ''
+2026-10-15 17:07:42 [AUSWAHL] Ungültige Eingabe: 'end'
+2026-10-15 17:07:43 [ENDE] Applikation beendet
+2026-10-15 17:07:54 [START] Applikation gestartet
+2026-10-15 17:07:56 [AUSWAHL] Kunde hat 'Saft' gewählt
+2026-10-15 17:07:57 [AUSWAHL] Ungültige Eingabe: 'test'
+2026-10-15 17:07:59 [ENDE] Applikation beendet

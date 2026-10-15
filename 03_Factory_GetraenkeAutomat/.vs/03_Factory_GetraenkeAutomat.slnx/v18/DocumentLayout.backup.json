@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1schule\\SEW\\5AHIT\\SEW_5AHIT_Grestenberger\\03_Factory_GetraenkeAutomat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6517977E-D779-4CC5-BD53-248A6E96E42B}|03_Factory_GetraenkeAutomat\\03_Factory_GetraenkeAutomat.csproj|d:\\1schule\\sew\\5ahit\\sew_5ahit_grestenberger\\03_factory_getraenkeautomat\\03_factory_getraenkeautomat\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6517977E-D779-4CC5-BD53-248A6E96E42B}|03_Factory_GetraenkeAutomat\\03_Factory_GetraenkeAutomat.csproj|solutionrelative:03_factory_getraenkeautomat\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6517977E-D779-4CC5-BD53-248A6E96E42B}|03_Factory_GetraenkeAutomat\\03_Factory_GetraenkeAutomat.csproj|d:\\1schule\\sew\\5ahit\\sew_5ahit_grestenberger\\03_factory_getraenkeautomat\\03_factory_getraenkeautomat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6517977E-D779-4CC5-BD53-248A6E96E42B}|03_Factory_GetraenkeAutomat\\03_Factory_GetraenkeAutomat.csproj|solutionrelative:03_factory_getraenkeautomat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 618,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\1schule\\SEW\\5AHIT\\SEW_5AHIT_Grestenberger\\03_Factory_GetraenkeAutomat\\03_Factory_GetraenkeAutomat\\Logger.cs",
+              "RelativeDocumentMoniker": "03_Factory_GetraenkeAutomat\\Logger.cs",
+              "ToolTip": "D:\\1schule\\SEW\\5AHIT\\SEW_5AHIT_Grestenberger\\03_Factory_GetraenkeAutomat\\03_Factory_GetraenkeAutomat\\Logger.cs",
+              "RelativeToolTip": "03_Factory_GetraenkeAutomat\\Logger.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T15:05:36.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1schule\\SEW\\5AHIT\\SEW_5AHIT_Grestenberger\\03_Factory_GetraenkeAutomat\\03_Factory_GetraenkeAutomat\\Program.cs",
+              "RelativeDocumentMoniker": "03_Factory_GetraenkeAutomat\\Program.cs",
+              "ToolTip": "D:\\1schule\\SEW\\5AHIT\\SEW_5AHIT_Grestenberger\\03_Factory_GetraenkeAutomat\\03_Factory_GetraenkeAutomat\\Program.cs",
+              "RelativeToolTip": "03_Factory_GetraenkeAutomat\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwF0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T08:35:09.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
